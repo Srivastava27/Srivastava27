@@ -56,7 +56,7 @@ Hi there, my name is Vanshika Srivastava. I hold a bachelor's degree in Electron
 
 
 
-<div align="left">
+<div>
 
    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -89,16 +89,14 @@ Hi there, my name is Vanshika Srivastava. I hold a bachelor's degree in Electron
 ## 📊 GitHub Stats
 
 <table>
-  <tr>
-    <td>
+  
+  <td>
       <a href="https://github.com/Srivastava27/github-readme-statss"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srivastava27&layout=compact&theme=vision-friendly-dark" alt="Top Languages" /> </a>
     </td>
-  </tr>
-  <tr>
     <td colspan=2 align="center">
       <a href="https://git.io/streak-stats"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Srivastava27&theme=transparen" alt="Vanshika's GitHub Readme Streak Stats" /> </a>
     </td>
-  </tr>
+  
 </table>
 
 
