@@ -34,12 +34,12 @@
 <body>
     <div class="container">
         <div class="intro">
-            <h1>Hello, I'm [Your Name]</h1>
+            <h1>Hello, I'm Vanshika Srivastava</h1>
             <p>Welcome to my GitHub profile! I'm passionate about [your interests or field of expertise]. Feel free to explore my repositories and contributions.</p>
         </div>
         <div class="social-links">
-            <a href="[Your LinkedIn Profile URL]" target="_blank">LinkedIn</a>
-            <a href="[Your LeetCode Profile URL]" target="_blank">LeetCode</a>
+            <a href="https://www.linkedin.com/in/vanshika-srivastava-25866b212/" target="_blank">LinkedIn</a>
+            <a href="https://leetcode.com/vanshikas2623/" target="_blank">LeetCode</a>
             <!-- Add more social links as needed -->
         </div>
     </div>
