@@ -83,7 +83,7 @@ Hi there, my name is Vanshika Srivastava. I hold a bachelor's degree in Electron
       <a href="https://github.com/Srivastava27/github-readme-statss"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srivastava27&layout=compact&theme=vision-friendly-dark" alt="Top Languages" /> </a>
     </td>
     <td colspan=2 align="center">
-      <a href="https://git.io/streak-stats"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Srivastava27&theme=transparen" alt="Vanshika's GitHub Readme Streak Stats" /> </a>
+      <a href="https://git.io/streak-stats"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Srivastava27&theme=transparent" alt="Vanshika's GitHub Readme Streak Stats" /> </a>
     </td>
   
 </table>
